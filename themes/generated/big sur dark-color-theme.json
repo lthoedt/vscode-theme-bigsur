@@ -105,22 +105,22 @@
 			// notification badge
 			"activityBarBadge.background": "#007acc",
 			"activityBar.background": "#2D2E30",
-			"activityBar.foreground": "clr_primary",
-			"activityBar.inactiveForeground": "clr_primary",
+			"activityBar.foreground": "#007bff",
+			"activityBar.inactiveForeground": "#007bff",
 			"activityBar.border": "#151515",
 			"activityBar.activeBackground": "#515254",
 			"activityBar.activeBorder": "#00000000",
 
 
 		"list.hoverBackground": "#344D6B",
-		"list.activeSelectionBackground": "clr_primary",
+		"list.activeSelectionBackground": "#007BFF",
 		"list.inactiveFocusBackground": "#D7001500",
 		"list.inactiveSelectionBackground": "#49494A",
 
 		"list.warningForeground": "#FF9500",
 		"list.errorForeground": "#D70015",
 
-		"tree.indentGuidesStroke": "clr_primary",
+		"tree.indentGuidesStroke": "#007bff",
 
 		// git
 			"gitDecoration.untrackedResourceForeground": "#F2F2F7",
@@ -143,7 +143,7 @@
 			"peekViewEditor.background": "#1C1C1E",
 			// matching function
 			"peekViewEditor.matchHighlightBackground":"#00000000",
-			"peekViewEditor.matchHighlightBorder":"clr_primary",
+			"peekViewEditor.matchHighlightBorder":"#007BFF",
 
 			// right panel
 			"peekViewResult.fileForeground":"#E5E5EA",
@@ -162,7 +162,7 @@
 		// panels
 			"panel.background": "#1E1F21",
 			"panel.border": "#00000000",
-			"panel.dropBorder": "clr_primary",
+			"panel.dropBorder": "#007BFF",
 
 			//panel bar
 			"panelTitle.activeBorder": "#ff000000",
@@ -182,7 +182,7 @@
 			"statusBar.debuggingBackground": "#FF9500",
 
 			// item
-			"statusBarItem.activeBackground": "clr_primary",
+			"statusBarItem.activeBackground": "#007BFF",
 			"statusBarItem.hoverBackground": "#007BFF60",
 
 			"statusBarItem.errorBackground":"#D70015",
@@ -196,12 +196,12 @@
 			"menu.background": "#2D2E30",
 			"menu.foreground": "#ffffff",
 
-			"menu.selectionBackground": "clr_primary",
+			"menu.selectionBackground": "#007BFF",
 			"menu.selectionForeground": "#ffffff",
 			"menu.selectionBorder": "#00000000",
 			"menu.separatorBackground": "#151515",
 			
-			"menubar.selectionBackground": "clr_primary",
+			"menubar.selectionBackground": "#007BFF",
 			"menubar.selectionForeground": "#ffffff",
 			"menubar.selectionBorder": "#00000000",
 
@@ -214,11 +214,11 @@
 
 			"notifications.background": "#2c2c2e",
 			"notifications.foreground": "#AEAEB2",
-			"notificationLink.foreground": "clr_primary",
+			"notificationLink.foreground": "#007BFF",
 
 			"notificationsErrorIcon.foreground": "#D70015",
 			"notificationsWarningIcon.foreground": "#FF9500",
-			"notificationsInfoIcon.foreground": "clr_primary",
+			"notificationsInfoIcon.foreground": "#007BFF",
 
 		// integrated terminal
 			"terminal.border": "#151515",
@@ -243,7 +243,7 @@
 			"terminal.ansiWhite": "#FAFAFA",
 			"terminal.ansiYellow": "#F5C200",
 
-			"terminal.selectionBackground": "clr_primary",
+			"terminal.selectionBackground": "#007BFF",
 			// cursor color
 			"terminalCursor.foreground": "#C7C7CC",
 
@@ -309,7 +309,7 @@
 		// 		"storage.modifier"
 		// 	],
 		// 	"settings": {
-		// 		"foreground": "clr_primary"
+		// 		"foreground": "#007BFF"
 		// 	}
 		// },
 		{
