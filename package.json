@@ -20,9 +20,19 @@
     "contributes": {
         "themes": [
             {
+                "label": "big sur elevated",
+                "uiTheme": "vs-dark",
+                "path": "./themes/generated/big sur elevated-color-theme.json"
+            },
+            {
                 "label": "big sur dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/big sur dark-color-theme.json"
+                "path": "./themes/generated/big sur dark-color-theme.json"
+            },
+            {
+                "label": "big sur light",
+                "uiTheme": "vs",
+                "path": "./themes/generated/big sur light-color-theme.json"
             }
         ]
     },

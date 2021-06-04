@@ -4,7 +4,7 @@
 	"colors": {
 
 		// editor
-		"editor.background": "background_Dark",
+		"editor.background": "background_Elevated",
 		"editor.foreground": "fontColorPrimary_Dark",
 
 		// line numbers
@@ -26,10 +26,10 @@
 		"editor.findMatchHighlightBorder": "systemBlue_Dark",
 
 		// under cursor
-		"editor.hoverHighlightBackground": "backgroundSecondary_Dark",
+		"editor.hoverHighlightBackground": "backgroundSecondary_Elevated",
 
 		// cursor line
-		"editor.lineHighlightBackground": "backgroundSecondary_Dark",
+		"editor.lineHighlightBackground": "backgroundSecondary_Elevated",
 		"editor.lineHighlightBorder": "#ff000000",
 
 		// text between lines
@@ -43,7 +43,7 @@
 		"editorBracketMatch.border": "systemPurple_Dark",
 
 		// scrollbar background
-			"editorOverviewRuler.background": "background_Dark",
+			"editorOverviewRuler.background": "background_Elevated",
 			"editorOverviewRuler.border": "#00000000",
 
 			"editorOverviewRuler.addedForeground": "systemGreen_Dark",
@@ -76,39 +76,39 @@
 		"scrollbarSlider.hoverBackground": "#302d2d",
 
 		// folded code
-		"editor.foldBackground": "backgroundSecondary_Dark",
+		"editor.foldBackground": "backgroundSecondary_Elevated",
 
-		"editorWidget.background": "backgroundSecondary_Dark",
+		"editorWidget.background": "backgroundSecondary_Elevated",
 		"editorWidget.foreground": "fontColorPrimary_Dark",
 		"editorWidget.border": "#00000000",
 
-		"editorSuggestWidget.background": "backgroundSecondary_Dark",
+		"editorSuggestWidget.background": "backgroundSecondary_Elevated",
 		"editorSuggestWidget.foreground": "fontColorPrimary_Dark",
 		"editorSuggestWidget.border": "#00000000",
 
-		"editorHoverWidget.background": "backgroundSecondary_Dark",
+		"editorHoverWidget.background": "backgroundSecondary_Elevated",
 		"editorHoverWidget.foreground": "fontColorPrimary_Dark",
 		"editorHoverWidget.border": "#00000000",
 
 		// left bar
 			"sideBarTitle.foreground": "fontColorPrimary_Dark",
 			// background
-			"sideBar.background": "backgroundSecondary_Dark",
+			"sideBar.background": "backgroundSecondary_Elevated",
 			// arrows
 			"sideBar.foreground": "fontColorPrimary_Dark",
 			"sideBar.border": "#00000000",
 			
-			"sideBarSectionHeader.background": "backgroundSecondary_Dark",
+			"sideBarSectionHeader.background": "backgroundSecondary_Elevated",
 			"sideBarSectionHeader.foreground": "fontColorSecondary_Dark",
 
 		// activity bar
 			// notification badge
 			"activityBarBadge.background": "systemBlue_Dark",
-			"activityBar.background": "backgroundSecondary_Dark",
+			"activityBar.background": "backgroundSecondary_Elevated",
 			"activityBar.foreground": "systemBlue_Dark",
 			"activityBar.inactiveForeground": "systemBlue_Dark",
 			"activityBar.border": "#00000000",
-			"activityBar.activeBackground": "background_Dark",
+			"activityBar.activeBackground": "background_Elevated",
 			"activityBar.activeBorder": "#00000000",
 
 
@@ -133,7 +133,7 @@
 			"gitDecoration.stageModifiedResourceForeground": "systemBlue_Dark",
 		
 		// tabbar background
-			"editorGroupHeader.tabsBackground":"backgroundSecondary_Dark",
+			"editorGroupHeader.tabsBackground":"backgroundSecondary_Elevated",
 	
 		// active tab font color
 			"tab.activeForeground": "fontColorPrimary_Dark",
@@ -142,12 +142,12 @@
 			"tab.border": "#00000000",
 
 		// inactive tab background and font color
-			"tab.inactiveBackground": "backgroundSecondary_Dark",
-			"tab.inactiveForeground": "fontColorSecondary_Dark",
+			"tab.inactiveBackground": "backgroundSecondary_Elevated",
+			"tab.inactiveForeground": "fontColorSecondary_Elevated",
 		
 		// peek
 			// background
-			"peekViewEditor.background": "backgroundSecondary_Dark",
+			"peekViewEditor.background": "backgroundSecondary_Elevated",
 			// matching function
 			"peekViewEditor.matchHighlightBackground":"#00000000",
 			"peekViewEditor.matchHighlightBorder":"systemBlue_Dark",
@@ -167,7 +167,7 @@
 			"merge.incomingContentBackground": "#0070a431",
 
 		// panels
-			"panel.background": "backgroundSecondary_Dark",
+			"panel.background": "backgroundSecondary_Elevated",
 			"panel.border": "#00000000",
 			"panel.dropBorder": "systemBlue_Dark",
 
@@ -179,10 +179,10 @@
 			// input border
 			"panelInput.border": "#00000000",
 
-			"panelSection.border": "background_Dark",
+			"panelSection.border": "background_Elevated",
 
 		// statusbar
-			"statusBar.background": "backgroundSecondary_Dark",
+			"statusBar.background": "backgroundSecondary_Elevated",
 			"statusBar.border": "#00000000",
 
 			// debugging
@@ -195,18 +195,18 @@
 			"statusBarItem.errorBackground":"systemRed_Dark",
 
 		// titleBar
-			"titleBar.activeBackground": "backgroundSecondary_Dark",
-			"titleBar.inactiveBackground":"backgroundSecondary_Dark",
+			"titleBar.activeBackground": "backgroundSecondary_Elevated",
+			"titleBar.inactiveBackground":"backgroundSecondary_Elevated",
 			"titleBar.border": "#00000000",
 
 		// menu bar
-			"menu.background": "backgroundSecondary_Dark",
+			"menu.background": "backgroundSecondary_Elevated",
 			"menu.foreground": "fontColorPrimary_Dark",
 
 			"menu.selectionBackground": "systemBlue_Dark",
 			"menu.selectionForeground": "fontColorPrimary_Dark",
 			"menu.selectionBorder": "#00000000",
-			"menu.separatorBackground": "backgroundSecondary_Dark",
+			"menu.separatorBackground": "backgroundSecondary_Elevated",
 			
 			"menubar.selectionBackground": "systemBlue_Dark",
 			"menubar.selectionForeground": "fontColorPrimary_Dark",
@@ -215,11 +215,11 @@
 		// notification centre
 			"notificationCenter.border":"#00000000",
 			"notificationCenterHeader.foreground":"fontColorPrimary_Dark",
-			"notificationCenterHeader.background": "backgroundSecondary_Dark",
+			"notificationCenterHeader.background": "backgroundSecondary_Elevated",
 
 			"notificationToast.border":"#00000000",
 
-			"notifications.background": "backgroundSecondary_Dark",
+			"notifications.background": "backgroundSecondary_Elevated",
 			"notifications.foreground": "fontColorSecondary_Dark",
 			"notificationLink.foreground": "systemBlue_Dark",
 
@@ -228,10 +228,10 @@
 			"notificationsInfoIcon.foreground": "systemBlue_Dark",
 
 		// integrated terminal
-			"terminal.border": "background_Dark",
+			"terminal.border": "background_Elevated",
 			// text color
 			"terminal.foreground": "fontColorPrimary_Dark",
-			"terminal.background": "backgroundSecondary_Dark",
+			"terminal.background": "backgroundSecondary_Elevated",
 
 			//colors
 			"terminal.ansiBlack": "#1C1C1E",

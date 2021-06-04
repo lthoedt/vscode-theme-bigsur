@@ -1,0 +1,72 @@
+{
+    "systemBlue_Light": "#007AFF",
+    "systemBlue_Dark": "#0A84FF",
+
+    "systemGreen_Light": "#34C759",
+    "systemGreen_Dark": "#30D158",
+
+    "systemIndigo_Light": "#5856D6",
+    "systemIndigo_Dark": "#5E5CE6",
+
+    "systemOrange_Light": "#FF9500",
+    "systemOrange_Dark": "#FF9F0A",
+
+    "systemPink_Light": "#FF2D55",
+    "systemPink_Dark": "#FF375F",
+
+    "systemPurple_Light": "#AF52DE",
+    "systemPurple_Dark": "#BF5AF2",
+
+    "systemRed_Light": "#FF3B30",
+    "systemRed_Dark": "#FF453A",
+
+    "systemTeal_Light": "#5AC8FA",
+    "systemTeal_Dark": "#64D2FF",
+
+    "systemYellow_Light": "#FFCC00",
+    "systemYellow_Dark": "#FFD60A",
+
+
+    "systemGray_Light": "#8E8E93",
+    "systemGray_Dark": "#8E8E93",
+
+    "systemGray2_Light": "#AEAEB2",
+    "systemGray2_Dark": "#636366",
+
+    "systemGray3_Light": "#C7C7CC",
+    "systemGray3_Dark": "#48484A",
+    
+    "systemGray4_Light": "#D1D1D6",
+    "systemGray4_Dark": "#3A3A3C",
+
+    "systemGray5_Light": "#E5E5EA",
+    "systemGray5_Dark": "#2C2C2E",
+
+    "systemGray6_Light": "#F2F2F7",
+    "systemGray6_Dark": "#1C1C1E",
+
+
+    "fontColorPrimary_Dark": "#FFFFFF",
+    "fontColorSecondary_Dark": "#8D8D93",
+    "fontColorTertiary_Dark": "#47474A",
+    "fontColorQuaternary_Dark": "#2A2A2C",
+
+    "fontColorPrimary_Elevated": "#FFFFFF",
+    "fontColorSecondary_Elevated": "#989899",
+    "fontColorTertiary_Elevated": "#5A5A5E",
+    "fontColorQuaternary_Elevated": "#3D3D41",
+
+    "fontColorPrimary_Light": "#000000",
+    "fontColorSecondary_Light": "#8A8A8E",
+    "fontColorTertiary_Light": "#C4C4C6",
+    "fontColorQuaternary_Light": "#DCDCDD",
+
+    "background_Dark": "#000000",
+    "backgroundSecondary_Dark": "#1C1C1E",
+
+    "background_Elevated": "#1C1C1E",
+    "backgroundSecondary_Elevated": "#2A2B2D",
+    
+    "background_Light": "#FFFFFF",
+    "backgroundSecondary_Light": "#CBCAD0"
+}
