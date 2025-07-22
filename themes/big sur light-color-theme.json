@@ -2,7 +2,6 @@
 	"name": "big sur dark",
 	"type": "dark",
 	"colors": {
-
 		// editor
 		"editor.background": "background_Light",
 		"editor.foreground": "fontColorPrimary_Light",
@@ -43,27 +42,27 @@
 		"editorBracketMatch.border": "systemPurple_Light",
 
 		// scrollbar background
-			"editorOverviewRuler.background": "background_Light",
-			"editorOverviewRuler.border": "#00000000",
+		"editorOverviewRuler.background": "background_Light",
+		"editorOverviewRuler.border": "#00000000",
 
-			"editorOverviewRuler.addedForeground": "systemGreen_Light",
-			"editorOverviewRuler.deletedForeground": "systemRed_Light",
-			"editorOverviewRuler.modifiedForeground": "systemBlue_Light",
+		"editorOverviewRuler.addedForeground": "systemGreen_Light",
+		"editorOverviewRuler.deletedForeground": "systemRed_Light",
+		"editorOverviewRuler.modifiedForeground": "systemBlue_Light",
 
 		//gutter
-			"editorGutter.addedBackground": "systemGreen_Light",
-			"editorGutter.deletedBackground": "systemRed_Light",
-			"editorGutter.modifiedBackground": "systemBlue_Light",
+		"editorGutter.addedBackground": "systemGreen_Light",
+		"editorGutter.deletedBackground": "systemRed_Light",
+		"editorGutter.modifiedBackground": "systemBlue_Light",
 
-			// gutter errows
-			"editorGutter.foldingControlForeground":"fontColorSecondary_Light",
+		// gutter errows
+		"editorGutter.foldingControlForeground": "fontColorSecondary_Light",
 
 		//diffeditor
-			"diffEditor.insertedTextBackground": "#5d77641f",
-			// "diffEditor.insertedTextBorder": "#34c759",
+		"diffEditor.insertedTextBackground": "#5d77641f",
+		// "diffEditor.insertedTextBorder": "#34c759",
 
-			"diffEditor.removedTextBackground": "#d700151f",
-			// "diffEditor.removedTextBorder": "systemRed_Light",
+		"diffEditor.removedTextBackground": "#d700151f",
+		// "diffEditor.removedTextBorder": "systemRed_Light",
 
 		// top shadow
 		"scrollbar.shadow": "#00000000",
@@ -91,26 +90,25 @@
 		"editorHoverWidget.border": "#00000000",
 
 		// left bar
-			"sideBarTitle.foreground": "fontColorPrimary_Light",
-			// background
-			"sideBar.background": "backgroundSecondary_Light",
-			// arrows
-			"sideBar.foreground": "fontColorPrimary_Light",
-			"sideBar.border": "#00000000",
-			
-			"sideBarSectionHeader.background": "backgroundSecondary_Light",
-			"sideBarSectionHeader.foreground": "fontColorSecondary_Light",
+		"sideBarTitle.foreground": "fontColorPrimary_Light",
+		// background
+		"sideBar.background": "backgroundSecondary_Light",
+		// arrows
+		"sideBar.foreground": "fontColorPrimary_Light",
+		"sideBar.border": "#00000000",
+
+		"sideBarSectionHeader.background": "backgroundSecondary_Light",
+		"sideBarSectionHeader.foreground": "fontColorSecondary_Light",
 
 		// activity bar
-			// notification badge
-			"activityBarBadge.background": "systemBlue_Light",
-			"activityBar.background": "backgroundSecondary_Light",
-			"activityBar.foreground": "systemBlue_Light",
-			"activityBar.inactiveForeground": "systemBlue_Light",
-			"activityBar.border": "#00000000",
-			"activityBar.activeBackground": "background_Light",
-			"activityBar.activeBorder": "#00000000",
-
+		// notification badge
+		"activityBarBadge.background": "systemBlue_Light",
+		"activityBar.background": "backgroundSecondary_Light",
+		"activityBar.foreground": "systemBlue_Light",
+		"activityBar.inactiveForeground": "systemBlue_Light",
+		"activityBar.border": "#00000000",
+		"activityBar.activeBackground": "background_Light",
+		"activityBar.activeBorder": "#00000000",
 
 		"list.hoverBackground": "#344D6B",
 		"list.activeSelectionBackground": "systemBlue_Light",
@@ -123,155 +121,151 @@
 		"tree.indentGuidesStroke": "systemBlue_Light",
 
 		// git
-			"gitDecoration.untrackedResourceForeground": "fontColorPrimary_Light",
-			"gitDecoration.addedResourceForeground": "systemGreen_Light",
-			"gitDecoration.modifiedResourceForeground": "systemBlue_Light",
-			"gitDecoration.deletedResourceForeground": "systemRed_Light",
-			"gitDecoration.conflictingResourceForeground": "systemOrange_Light",
-			"gitDecoration.renamedResourceForeground": "systemTeal_Light",
-			"gitDecoration.stageDeletedResourceForeground": "systemRed_Light",
-			"gitDecoration.stageModifiedResourceForeground": "systemBlue_Light",
-		
+		"gitDecoration.untrackedResourceForeground": "fontColorPrimary_Light",
+		"gitDecoration.addedResourceForeground": "systemGreen_Light",
+		"gitDecoration.modifiedResourceForeground": "systemBlue_Light",
+		"gitDecoration.deletedResourceForeground": "systemRed_Light",
+		"gitDecoration.conflictingResourceForeground": "systemOrange_Light",
+		"gitDecoration.renamedResourceForeground": "systemTeal_Light",
+		"gitDecoration.stageDeletedResourceForeground": "systemRed_Light",
+		"gitDecoration.stageModifiedResourceForeground": "systemBlue_Light",
+
 		// tabbar background
-			"editorGroupHeader.tabsBackground":"backgroundSecondary_Light",
-	
+		"editorGroupHeader.tabsBackground": "backgroundSecondary_Light",
+
 		// active tab font color
-			"tab.activeForeground": "fontColorPrimary_Light",
+		"tab.activeForeground": "fontColorPrimary_Light",
 
 		// tab borders
-			"tab.border": "#00000000",
+		"tab.border": "#00000000",
 
 		// inactive tab background and font color
-			"tab.inactiveBackground": "backgroundSecondary_Light",
-			"tab.inactiveForeground": "fontColorSecondary_Light",
-		
+		"tab.inactiveBackground": "backgroundSecondary_Light",
+		"tab.inactiveForeground": "fontColorSecondary_Light",
+
 		// peek
-			// background
-			"peekViewEditor.background": "backgroundSecondary_Light",
-			// matching function
-			"peekViewEditor.matchHighlightBackground":"#00000000",
-			"peekViewEditor.matchHighlightBorder":"systemBlue_Light",
+		// background
+		"peekViewEditor.background": "backgroundSecondary_Light",
+		// matching function
+		"peekViewEditor.matchHighlightBackground": "#00000000",
+		"peekViewEditor.matchHighlightBorder": "systemBlue_Light",
 
-			// right panel
-			"peekViewResult.fileForeground":"#E5E5EA",
-			"peekViewResult.lineForeground":"fontColorPrimary_Light",
+		// right panel
+		"peekViewResult.fileForeground": "#E5E5EA",
+		"peekViewResult.lineForeground": "fontColorPrimary_Light",
 
-			// selected line
-			"peekViewResult.selectionBackground": "#49494A",
+		// selected line
+		"peekViewResult.selectionBackground": "#49494A",
 
 		// merge
-			"merge.currentHeaderBackground": "#28cd4170",
-			"merge.currentContentBackground": "#34c7591f",
+		"merge.currentHeaderBackground": "#28cd4170",
+		"merge.currentContentBackground": "#34c7591f",
 
-			"merge.incomingHeaderBackground": "#409cff71",
-			"merge.incomingContentBackground": "#0070a431",
+		"merge.incomingHeaderBackground": "#409cff71",
+		"merge.incomingContentBackground": "#0070a431",
 
 		// panels
-			"panel.background": "backgroundSecondary_Light",
-			"panel.border": "#00000000",
-			"panel.dropBorder": "systemBlue_Light",
+		"panel.background": "backgroundSecondary_Light",
+		"panel.border": "#00000000",
+		"panel.dropBorder": "systemBlue_Light",
 
-			//panel bar
-			"panelTitle.activeBorder": "#ff000000",
-			"panelTitle.activeForeground": "fontColorPrimary_Light",
-			"panelTitle.inactiveForeground": "fontColorSecondary_Light",
+		//panel bar
+		"panelTitle.activeBorder": "#ff000000",
+		"panelTitle.activeForeground": "fontColorPrimary_Light",
+		"panelTitle.inactiveForeground": "fontColorSecondary_Light",
 
-			// input border
-			"panelInput.border": "#00000000",
+		// input border
+		"panelInput.border": "#00000000",
 
-			"panelSection.border": "background_Light",
+		"panelSection.border": "background_Light",
 
 		// statusbar
-			"statusBar.background": "backgroundSecondary_Light",
-			"statusBar.border": "#00000000",
+		"statusBar.background": "backgroundSecondary_Light",
+		"statusBar.border": "#00000000",
 
-			// debugging
-			"statusBar.debuggingBackground": "systemOrange_Light",
+		// debugging
+		"statusBar.debuggingBackground": "systemOrange_Light",
 
-			// item
-			"statusBarItem.activeBackground": "systemBlue_Light",
-			"statusBarItem.hoverBackground": "#007BFF60",
+		// item
+		"statusBarItem.activeBackground": "systemBlue_Light",
+		"statusBarItem.hoverBackground": "#007BFF60",
 
-			"statusBarItem.errorBackground":"systemRed_Light",
+		"statusBarItem.errorBackground": "systemRed_Light",
 
 		// titleBar
-			"titleBar.activeBackground": "backgroundSecondary_Light",
-			"titleBar.inactiveBackground":"backgroundSecondary_Light",
-			"titleBar.border": "#00000000",
+		"titleBar.activeBackground": "backgroundSecondary_Light",
+		"titleBar.inactiveBackground": "backgroundSecondary_Light",
+		"titleBar.border": "#00000000",
 
 		// menu bar
-			"menu.background": "backgroundSecondary_Light",
-			"menu.foreground": "fontColorPrimary_Light",
+		"menu.background": "backgroundSecondary_Light",
+		"menu.foreground": "fontColorPrimary_Light",
 
-			"menu.selectionBackground": "systemBlue_Light",
-			"menu.selectionForeground": "fontColorPrimary_Light",
-			"menu.selectionBorder": "#00000000",
-			"menu.separatorBackground": "backgroundSecondary_Light",
-			
-			"menubar.selectionBackground": "systemBlue_Light",
-			"menubar.selectionForeground": "fontColorPrimary_Light",
-			"menubar.selectionBorder": "#00000000",
+		"menu.selectionBackground": "systemBlue_Light",
+		"menu.selectionForeground": "fontColorPrimary_Light",
+		"menu.selectionBorder": "#00000000",
+		"menu.separatorBackground": "backgroundSecondary_Light",
+
+		"menubar.selectionBackground": "systemBlue_Light",
+		"menubar.selectionForeground": "fontColorPrimary_Light",
+		"menubar.selectionBorder": "#00000000",
 
 		// notification centre
-			"notificationCenter.border":"#00000000",
-			"notificationCenterHeader.foreground":"fontColorPrimary_Light",
-			"notificationCenterHeader.background": "backgroundSecondary_Light",
+		"notificationCenter.border": "#00000000",
+		"notificationCenterHeader.foreground": "fontColorPrimary_Light",
+		"notificationCenterHeader.background": "backgroundSecondary_Light",
 
-			"notificationToast.border":"#00000000",
+		"notificationToast.border": "#00000000",
 
-			"notifications.background": "backgroundSecondary_Light",
-			"notifications.foreground": "fontColorSecondary_Light",
-			"notificationLink.foreground": "systemBlue_Light",
+		"notifications.background": "backgroundSecondary_Light",
+		"notifications.foreground": "fontColorSecondary_Light",
+		"notificationLink.foreground": "systemBlue_Light",
 
-			"notificationsErrorIcon.foreground": "systemRed_Light",
-			"notificationsWarningIcon.foreground": "systemOrange_Light",
-			"notificationsInfoIcon.foreground": "systemBlue_Light",
+		"notificationsErrorIcon.foreground": "systemRed_Light",
+		"notificationsWarningIcon.foreground": "systemOrange_Light",
+		"notificationsInfoIcon.foreground": "systemBlue_Light",
 
 		// integrated terminal
-			"terminal.border": "background_Light",
-			// text color
-			"terminal.foreground": "fontColorPrimary_Light",
-			"terminal.background": "backgroundSecondary_Light",
+		"terminal.border": "background_Light",
+		// text color
+		"terminal.foreground": "fontColorPrimary_Light",
+		"terminal.background": "backgroundSecondary_Light",
 
-			//colors
-			"terminal.ansiBlack": "#1C1C1E",
-			"terminal.ansiBlue": "systemBlue_Light",
-			"terminal.ansiBrightBlack": "#3A3A3C",
-			"terminal.ansiBrightBlue": "systemBlue_Light",
-			"terminal.ansiBrightCyan": "systemTeal_Light",
-			"terminal.ansiBrightGreen": "systemGreen_Light",
-			"terminal.ansiBrightMagenta": "systemPurple_Light",
-			"terminal.ansiBrightRed": "systemPink_Light",
-			"terminal.ansiBrightWhite": "#E5E5EA",
-			"terminal.ansiBrightYellow": "systemYellow_Light",
-			"terminal.ansiCyan": "systemTeal_Light",
-			"terminal.ansiGreen": "#systemGreen_Light",
-			"terminal.ansiMagenta": "systemPurple_Light",
-			"terminal.ansiRed": "systemRed_Light",
-			"terminal.ansiWhite": "#FAFAFA",
-			"terminal.ansiYellow": "systemYellow_Light",
+		//colors
+		"terminal.ansiBlack": "#1C1C1E",
+		"terminal.ansiBlue": "systemBlue_Light",
+		"terminal.ansiBrightBlack": "#3A3A3C",
+		"terminal.ansiBrightBlue": "systemBlue_Light",
+		"terminal.ansiBrightCyan": "systemTeal_Light",
+		"terminal.ansiBrightGreen": "systemGreen_Light",
+		"terminal.ansiBrightMagenta": "systemPurple_Light",
+		"terminal.ansiBrightRed": "systemPink_Light",
+		"terminal.ansiBrightWhite": "#E5E5EA",
+		"terminal.ansiBrightYellow": "systemYellow_Light",
+		"terminal.ansiCyan": "systemTeal_Light",
+		"terminal.ansiGreen": "#systemGreen_Light",
+		"terminal.ansiMagenta": "systemPurple_Light",
+		"terminal.ansiRed": "systemRed_Light",
+		"terminal.ansiWhite": "#FAFAFA",
+		"terminal.ansiYellow": "systemYellow_Light",
 
-			"terminal.selectionBackground": "systemBlue_Light",
-			// cursor color
-			"terminalCursor.foreground": "fontColorPrimary_Light",
+		"terminal.selectionBackground": "systemBlue_Light",
+		// cursor color
+		"terminalCursor.foreground": "fontColorPrimary_Light",
 
 		// debug
-			"editor.stackFrameHighlightBackground":"#D7001544",
-			"debugTokenExpression.name":"systemBlue_Light",
-			"debugTokenExpression.value": "#D1D1D6",
-			"debugTokenExpression.string":"systemYellow_Light",
-			"debugTokenExpression.boolean":"systemPurple_Light",
-			"debugTokenExpression.number":"systemTeal_Light",
-			"debugTokenExpression.error":"systemRed_Light",
-
+		"editor.stackFrameHighlightBackground": "#D7001544",
+		"debugTokenExpression.name": "systemBlue_Light",
+		"debugTokenExpression.value": "#D1D1D6",
+		"debugTokenExpression.string": "systemYellow_Light",
+		"debugTokenExpression.boolean": "systemPurple_Light",
+		"debugTokenExpression.number": "systemTeal_Light",
+		"debugTokenExpression.error": "systemRed_Light"
 	},
 	"tokenColors": [
 		{
 			"name": "Comment",
-			"scope": [
-				"comment",
-				"punctuation.definition.comment"
-			],
+			"scope": ["comment", "punctuation.definition.comment"],
 			"settings": {
 				"fontStyle": "italic",
 				"foreground": "systemGray4_Light"
@@ -283,7 +277,7 @@
 				"variable",
 				"string constant.other.placeholder",
 				"meta.method-call",
-				"variable.parameter",
+				"variable.parameter"
 				// "meta.method-call",
 			],
 			"settings": {
@@ -293,19 +287,14 @@
 		},
 		{
 			"name": "Colors",
-			"scope": [
-				"constant.other.color"
-			],
+			"scope": ["constant.other.color"],
 			"settings": {
 				"foreground": "fontColorPrimary_Light"
 			}
 		},
 		{
 			"name": "Invalid",
-			"scope": [
-				"invalid",
-				"invalid.illegal"
-			],
+			"scope": ["invalid", "invalid.illegal"],
 			"settings": {
 				"foreground": "systemRed_Light"
 			}
@@ -342,9 +331,7 @@
 		},
 		{
 			"name": ";",
-			"scope": [
-				"punctuation.terminator"
-			],
+			"scope": ["punctuation.terminator"],
 			"settings": {
 				"foreground": "fontColorPrimary_Light"
 			}
@@ -374,7 +361,7 @@
 			],
 			"settings": {
 				"foreground": "systemIndigo_Light",
-				"fontStyle":""
+				"fontStyle": ""
 			}
 		},
 		{
@@ -384,24 +371,19 @@
 			],
 			"settings": {
 				"foreground": "systemPink_Light",
-				"fontStyle":""
+				"fontStyle": ""
 			}
 		},
 		{
 			"name": "Block Level Variables",
-			"scope": [
-				"meta.block variable.other"
-			],
+			"scope": ["meta.block variable.other"],
 			"settings": {
 				"foreground": "systemPink_Light"
 			}
 		},
 		{
 			"name": "Other Variable, String Link",
-			"scope": [
-				"support.other.variable",
-				"string.other.link"
-			],
+			"scope": ["support.other.variable", "string.other.link"],
 			"settings": {
 				"foreground": "systemPink_Light"
 			}
@@ -432,7 +414,7 @@
 				"markup.inserted.git_gutter",
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
 				"punctuation.definition.string.begin",
-				"punctuation.definition.string.end",
+				"punctuation.definition.string.end"
 			],
 			"settings": {
 				"foreground": "systemGreen_Light",
@@ -466,9 +448,7 @@
 		// },
 		{
 			"name": "Entity Types",
-			"scope": [
-				"support.type"
-			],
+			"scope": ["support.type"],
 			"settings": {
 				"foreground": "fontColorPrimary_Light"
 			}
@@ -500,9 +480,7 @@
 		},
 		{
 			"name": "Language methods",
-			"scope": [
-				"variable.language"
-			],
+			"scope": ["variable.language"],
 			"settings": {
 				"fontStyle": "italic",
 				"foreground": "systemPink_Light"
@@ -510,9 +488,7 @@
 		},
 		{
 			"name": "entity.name.method.js",
-			"scope": [
-				"entity.name.method.js"
-			],
+			"scope": ["entity.name.method.js"],
 			"settings": {
 				"fontStyle": "italic",
 				"foreground": "systemTeal_Light"
@@ -530,9 +506,7 @@
 		},
 		{
 			"name": "Attributes",
-			"scope": [
-				"entity.other.attribute-name"
-			],
+			"scope": ["entity.other.attribute-name"],
 			"settings": {
 				"foreground": "systemPurple_Light"
 			}
@@ -550,74 +524,56 @@
 		},
 		{
 			"name": "CSS Classes",
-			"scope": [
-				"entity.other.attribute-name.class"
-			],
+			"scope": ["entity.other.attribute-name.class"],
 			"settings": {
 				"foreground": "systemYellow_Light"
 			}
 		},
 		{
 			"name": "CSS ID's",
-			"scope": [
-				"source.sass keyword.control"
-			],
+			"scope": ["source.sass keyword.control"],
 			"settings": {
 				"foreground": "systemTeal_Light"
 			}
 		},
 		{
 			"name": "Inserted",
-			"scope": [
-				"markup.inserted"
-			],
+			"scope": ["markup.inserted"],
 			"settings": {
 				"foreground": "systemGreen_Light"
 			}
 		},
 		{
 			"name": "Deleted",
-			"scope": [
-				"markup.deleted"
-			],
+			"scope": ["markup.deleted"],
 			"settings": {
 				"foreground": "systemPink_Light"
 			}
 		},
 		{
 			"name": "Changed",
-			"scope": [
-				"markup.changed"
-			],
+			"scope": ["markup.changed"],
 			"settings": {
 				"foreground": "systemPurple_Light"
 			}
 		},
 		{
 			"name": "Regular Expressions",
-			"scope": [
-				"string.regexp"
-			],
+			"scope": ["string.regexp"],
 			"settings": {
 				"foreground": "systemTeal_Light"
 			}
 		},
 		{
 			"name": "Escape Characters",
-			"scope": [
-				"constant.character.escape"
-			],
+			"scope": ["constant.character.escape"],
 			"settings": {
 				"foreground": "systemTeal_Light"
 			}
 		},
 		{
 			"name": "URL",
-			"scope": [
-				"*url*",
-				"*link*",
-				"*uri*"
-			],
+			"scope": ["*url*", "*link*", "*uri*"],
 			"settings": {
 				"fontStyle": "underline"
 			}
@@ -736,9 +692,7 @@
 		},
 		{
 			"name": "Markdown - Markup Raw Inline",
-			"scope": [
-				"text.html.markdown markup.inline.raw.markdown"
-			],
+			"scope": ["text.html.markdown markup.inline.raw.markdown"],
 			"settings": {
 				"foreground": "systemPurple_Light"
 			}
@@ -765,9 +719,7 @@
 		},
 		{
 			"name": "Markup - Italic",
-			"scope": [
-				"markup.italic"
-			],
+			"scope": ["markup.italic"],
 			"settings": {
 				"fontStyle": "italic",
 				"foreground": "systemPink_Light"
@@ -775,10 +727,7 @@
 		},
 		{
 			"name": "Markup - Bold",
-			"scope": [
-				"markup.bold",
-				"markup.bold string"
-			],
+			"scope": ["markup.bold", "markup.bold string"],
 			"settings": {
 				"fontStyle": "bold",
 				"foreground": "systemPink_Light"
@@ -801,9 +750,7 @@
 		},
 		{
 			"name": "Markup - Underline",
-			"scope": [
-				"markup.underline"
-			],
+			"scope": ["markup.underline"],
 			"settings": {
 				"fontStyle": "underline",
 				"foreground": "systemOrange_Light"
@@ -820,63 +767,49 @@
 		},
 		{
 			"name": "Markup - Quote",
-			"scope": [
-				"markup.quote"
-			],
+			"scope": ["markup.quote"],
 			"settings": {
 				"fontStyle": "italic"
 			}
 		},
 		{
 			"name": "Markdown - Link",
-			"scope": [
-				"string.other.link.title.markdown"
-			],
+			"scope": ["string.other.link.title.markdown"],
 			"settings": {
 				"foreground": "systemTeal_Light"
 			}
 		},
 		{
 			"name": "Markdown - Link Description",
-			"scope": [
-				"string.other.link.description.title.markdown"
-			],
+			"scope": ["string.other.link.description.title.markdown"],
 			"settings": {
 				"foreground": "systemPurple_Light"
 			}
 		},
 		{
 			"name": "Markdown - Link Anchor",
-			"scope": [
-				"constant.other.reference.link.markdown"
-			],
+			"scope": ["constant.other.reference.link.markdown"],
 			"settings": {
 				"foreground": "systemYellow_Light"
 			}
 		},
 		{
 			"name": "Markup - Raw Block",
-			"scope": [
-				"markup.raw.block"
-			],
+			"scope": ["markup.raw.block"],
 			"settings": {
 				"foreground": "systemPurple_Light"
 			}
 		},
 		{
 			"name": "Markdown - Raw Block Fenced",
-			"scope": [
-				"markup.raw.block.fenced.markdown"
-			],
+			"scope": ["markup.raw.block.fenced.markdown"],
 			"settings": {
 				"foreground": "#00000050"
 			}
 		},
 		{
 			"name": "Markdown - Fenced Bode Block",
-			"scope": [
-				"punctuation.definition.fenced.markdown"
-			],
+			"scope": ["punctuation.definition.fenced.markdown"],
 			"settings": {
 				"foreground": "#00000050"
 			}
@@ -894,18 +827,14 @@
 		},
 		{
 			"name": "Markdown - Fenced Language",
-			"scope": [
-				"variable.language.fenced.markdown"
-			],
+			"scope": ["variable.language.fenced.markdown"],
 			"settings": {
 				"foreground": "#65737E"
 			}
 		},
 		{
 			"name": "Markdown - Separator",
-			"scope": [
-				"meta.separator"
-			],
+			"scope": ["meta.separator"],
 			"settings": {
 				"fontStyle": "bold",
 				"foreground": "#65737E"
@@ -913,9 +842,7 @@
 		},
 		{
 			"name": "Markup - Table",
-			"scope": [
-				"markup.table"
-			],
+			"scope": ["markup.table"],
 			"settings": {
 				"foreground": "fontColorPrimary_Light"
 			}
@@ -940,18 +867,14 @@
 		},
 		{
 			"name": "Return",
-			"scope": [
-				"keyword.control"
-			],
+			"scope": ["keyword.control"],
 			"settings": {
-				"foreground": "systemPink_Light",
+				"foreground": "systemPink_Light"
 			}
 		},
 		{
 			"name": "Class return_value",
-			"scope": [
-				"storage.type.generic"
-			],
+			"scope": ["storage.type.generic"],
 			"settings": {
 				"foreground": "systemYellow_Light",
 				"fontStyle": ""
@@ -971,6 +894,6 @@
 				"foreground": "systemPurple_Light",
 				"fontStyle": ""
 			}
-		},
+		}
 	]
 }
