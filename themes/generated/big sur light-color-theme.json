@@ -104,10 +104,10 @@
 		// notification badge
 		"activityBarBadge.background": "#007AFF",
 		"activityBar.background": "#CBCAD0",
-		"activityBar.foreground": "#007AFF",
+		"activityBar.foreground": "#FFFFFF",
 		"activityBar.inactiveForeground": "#007AFF",
 		"activityBar.border": "#00000000",
-		"activityBar.activeBackground": "#FFFFFF",
+		"activityBar.activeBackground": "#007AFF",
 		"activityBar.activeBorder": "#00000000",
 
 		"list.hoverBackground": "#AEAEB2",
@@ -872,7 +872,8 @@
 			"name": "Return",
 			"scope": ["keyword.control"],
 			"settings": {
-				"foreground": "#FF2D55"
+				"foreground": "#FF2D55",
+				"fontStyle": "bold"
 			}
 		},
 		{

@@ -104,10 +104,10 @@
 		// notification badge
 		"activityBarBadge.background": "systemBlue_Light",
 		"activityBar.background": "backgroundSecondary_Light",
-		"activityBar.foreground": "systemBlue_Light",
+		"activityBar.foreground": "fontColorPrimary_Dark",
 		"activityBar.inactiveForeground": "systemBlue_Light",
 		"activityBar.border": "#00000000",
-		"activityBar.activeBackground": "background_Light",
+		"activityBar.activeBackground": "systemBlue_Light",
 		"activityBar.activeBorder": "#00000000",
 
 		"list.hoverBackground": "systemGray2_Light",
@@ -872,7 +872,8 @@
 			"name": "Return",
 			"scope": ["keyword.control"],
 			"settings": {
-				"foreground": "systemPink_Light"
+				"foreground": "systemPink_Light",
+				"fontStyle": "bold"
 			}
 		},
 		{
