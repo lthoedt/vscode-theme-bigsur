@@ -110,10 +110,13 @@
 		"activityBar.activeBackground": "background_Light",
 		"activityBar.activeBorder": "#00000000",
 
-		"list.hoverBackground": "#344D6B",
-		"list.activeSelectionBackground": "systemBlue_Light",
-		"list.inactiveFocusBackground": "#D7001500",
-		"list.inactiveSelectionBackground": "systemGray3_Light",
+		"list.hoverBackground": "systemGray2_Light",
+		"list.activeSelectionBackground": "systemGray2_Light",
+		"list.inactiveFocusBackground": "systemGray2_Light",
+		"list.inactiveSelectionBackground": "systemGray2_Light",
+		"list.inactiveSelectionForeground": "fontColorPrimary_Light",
+		"list.focusForeground": "fontColorPrimary_Light",
+		"list.activeSelectionForeground": "fontColorPrimary_Light",
 
 		"list.warningForeground": "systemOrange_Light",
 		"list.errorForeground": "systemRed_Light",
@@ -268,7 +271,7 @@
 			"scope": ["comment", "punctuation.definition.comment"],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "systemGray4_Light"
+				"foreground": "systemGray2_Light"
 			}
 		},
 		{
